@@ -117,13 +117,13 @@
 
   margin-left: 10px;
 
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
 }
 
 .profile1-card2 {
   background-color: white;
-  height: 100px;
-  width: 500px;
+  height: 120px;
+  width: 510px;
   border: 1px solid #d0d1d5;
   border-radius: 10px;
 
@@ -131,13 +131,13 @@
 
   margin-left: 10px;
 
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
 }
 
 .profile1-card3 {
   background-color: white;
   height: 100px;
-  width: 500px;
+  width: 510px;
   border: 1px solid #d0d1d5;
   border-radius: 10px;
 
@@ -145,13 +145,13 @@
 
   margin-left: 10px;
 
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
 }
 
 .profile1-card4 {
   background-color: white;
-  height: 400px;
-  width: 500px;
+  height: 600px;
+  width: 510px;
   border: 1px solid #d0d1d5;
   border-radius: 10px;
 
@@ -159,50 +159,8 @@
 
   margin-left: 10px;
 
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
 }
-
-/* .profile1-card1 {
-  background-color: white;
-  height: 500px;
-  width: 200px;
-  border: 1px solid #d0d1d5;
-  border-radius: 10px;
-
-  margin-bottom: 10px;
-
-  margin-left: 10px;
-
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
-}
-
-.profile1-card1 {
-  background-color: white;
-  height: 500px;
-  width: 200px;
-  border: 1px solid #d0d1d5;
-  border-radius: 10px;
-
-  margin-bottom: 10px;
-
-  margin-left: 10px;
-
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
-}
-
-.profile1-card1 {
-  background-color: white;
-  height: 500px;
-  width: 200px;
-  border: 1px solid #d0d1d5;
-  border-radius: 10px;
-
-  margin-bottom: 10px;
-
-  margin-left: 10px;
-
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
-} */
 
 .profile-carddiv {
   display: flex;
@@ -230,4 +188,39 @@
   border-radius: 4px;
   border: #ffffff;
   cursor: pointer;
+}
+
+.profile1-card2 ul {
+  display: inline-flex;
+  list-style: none;
+}
+
+.input-post-section {
+  border-radius: 20px;
+  margin-left: 20px;
+  margin-bottom: -8px;
+  width: 350px;
+  border: 2px solid #f0f2f5;
+  background-color: #f0f2f5;
+}
+
+.postbtn {
+  height: 34px;
+  width: 50px;
+  margin-left: 6px;
+  margin-top: 3px;
+}
+
+.profile1-card4 ul {
+  display: inline-flex;
+  list-style: none;
+}
+
+.image-ahar {
+  position: absolute;
+  width: 502px;
+}
+
+.profile1-card4 p {
+  padding-left: 10px;
 }
